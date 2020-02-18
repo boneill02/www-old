@@ -1,7 +1,7 @@
 baseURL = "https://benoneill.xyz"
 languageCode = "en-us"
 title = "Ben O'Neill"
-theme = "hermit"
+theme = "ananke"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 [params]
@@ -14,10 +14,15 @@ SidebarRecentLimit = 5
 
 	[[menu.main]]
 		name = "About"
-		url = "about/"
+		url = "https://benoneill.xyz/about/"
 		weight = 10
 	
 	[[menu.main]]
 		name = "Links"
-		url = "links/"
+		url = "https://benoneill.xyz/links/"
+		weight = 20
+
+	[[menu.main]]
+		name = "Posts"
+		url = "https://benoneill.xyz/posts/"
 		weight = 20
