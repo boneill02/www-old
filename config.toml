@@ -1,0 +1,23 @@
+baseURL = "https://benoneill.xyz"
+languageCode = "en-us"
+title = "Ben O'Neill"
+theme = "hermit"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[params]
+SidebarRecentLimit = 5
+
+[author]
+    name = "Ben O'Neill"
+
+[menu]
+
+	[[menu.main]]
+		name = "About"
+		url = "about/"
+		weight = 10
+	
+	[[menu.main]]
+		name = "Links"
+		url = "links/"
+		weight = 20
