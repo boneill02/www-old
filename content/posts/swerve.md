@@ -1,7 +1,7 @@
 ---
 title: "On swerve"
 date: 2020-02-18T14:13:59-05:00
-draft: true
+draft: false
 comments: false
 images:
 ---
