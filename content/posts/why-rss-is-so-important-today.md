@@ -4,6 +4,7 @@ date = 2020-02-18T18:37:33-05:00
 tags = []
 featured_image = ""
 description = ""
+author = "Ben O'Neill"
 +++
 
 RSS is an amazing format for listing news articles, blog posts,
