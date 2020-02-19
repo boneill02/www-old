@@ -2,10 +2,12 @@ baseURL = "https://benoneill.xyz"
 languageCode = "en-us"
 title = "Ben O'Neill"
 theme = "ananke"
-copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+copyright = "Copyright (C) 2020 Ben O'Neill."
 
 [params]
-SidebarRecentLimit = 5
+	SidebarRecentLimit = 5
+	gitlab = "https://gitlab.com/swegbun"
+	mastodon = "https://mastodon.technology/@swegbun"
 
 [author]
     name = "Ben O'Neill"
