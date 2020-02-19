@@ -2,7 +2,7 @@ baseURL = "https://benoneill.xyz"
 languageCode = "en-us"
 title = "Ben O'Neill"
 theme = "ananke"
-copyright = "Copyright (C) 2020 Ben O'Neill."
+copyright = "Copyright (C) Ben O'Neill."
 
 [params]
 	SidebarRecentLimit = 5
