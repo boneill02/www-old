@@ -26,3 +26,8 @@ SidebarRecentLimit = 5
 		name = "Posts"
 		url = "https://benoneill.xyz/posts/"
 		weight = 20
+
+	[[menu.main]]
+		name = "Projects"
+		url = "https://benoneill.xyz/projects/"
+		weight = 20
