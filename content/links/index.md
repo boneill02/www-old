@@ -12,6 +12,7 @@ date = "2020-02-18"
 ## My stuff
 
 * [My GitLab](https://gitlab.com/swegbun/)
+* [My Blog RSS](https://benoneill.xyz/posts/index.xml)
 
 ## Philosophy
 
