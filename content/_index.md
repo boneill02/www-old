@@ -6,15 +6,4 @@ featured_image = ""
 description = ""
 +++
 
-I don't know what to put here so:
-
-```
- ______________________ 
-< Everything is bloat. >
- ---------------------- 
-\   ^__^
-         \  (oo)\_______
-                (__)\       )\/\
-                 ||----w |
-                 ||     ||
-```
+Everything is bloat. -- Me
