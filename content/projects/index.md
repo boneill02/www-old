@@ -6,6 +6,6 @@ featured_image = ""
 description = ""
 +++
 
+* [mbta-rss](https://gitlab.com/swegbun/mbta-rss)
 * [Spearhead GNU/Linux-Libre](https://gitlab.com/swegbun/spearhead)
 * [swerve](https://gitlab.com/swegbun/swerve)
-* [mbta-rss](https://gitlab.com/swegbun/mbta-rss)
