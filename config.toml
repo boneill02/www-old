@@ -6,6 +6,7 @@ copyright = "Copyright (C) Ben O'Neill."
 
 [params]
 	SidebarRecentLimit = 5
+	favicon = "favicon.ico"
 	gitlab = "https://gitlab.com/swegbun"
 	mastodon = "https://mastodon.technology/@swegbun"
 
