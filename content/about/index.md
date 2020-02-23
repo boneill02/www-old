@@ -10,7 +10,7 @@ around that interest.
 ## How I Do My Computing
 
 I run [Parabola GNU/Linux-Libre](https://parabola.nu) with exclusively
-free software on my laptop. On my phone, I run
+free software on my Lenovo Thinkpad X200. On my phone, I run
 [Replicant](https://replicant.us) with all free software on the
 operating system level. Sadly, my Samsung Galaxy Note 2 still has a
 proprietary bootloader. In terms of programming, I enjoy writing
