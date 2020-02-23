@@ -3,11 +3,12 @@ title = "Links"
 date = "2020-02-18"
 +++
 
-## GNU/Linux distributions
+## OS Distributions I Like
 
 * [Hyperbola GNU/Linux-Libre](https://www.hyperbola.info/)
-* [Parabola GNU/Linux-Libre](https:/parabola.nu/)
+* [Parabola GNU/Linux-Libre](https://parabola.nu/)
 * [Trisquel GNU/Linux](https://trisquel.info/)
+* [Replicant](https://replicant.us/)
 
 ## My stuff
 
