@@ -7,3 +7,5 @@ description = ""
 +++
 
 Everything is bloat. -- Me
+
+<a href="https://u.fsf.org/friendspring19"><img src="//static.fsf.org/nosvn/images/badges/Spring19-dark-age.png" alt="Double the movement"></a>

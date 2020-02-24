@@ -34,3 +34,6 @@ copyright = "Copyright (C) Ben O'Neill."
 		name = "Projects"
 		url = "https://benoneill.xyz/projects/"
 		weight = 20
+
+[markup.goldmark.renderer]
+	unsafe = true
