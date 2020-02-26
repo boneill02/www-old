@@ -7,8 +7,6 @@ featured_image = ""
 description = ""
 +++
 
-# Review of a Lenovo Thinkpad X200 with Libreboot
-
 [Libreboot](https://libreboot.org) allows one to free his/her computer
 from the shackles of proprietary boot firmware, which can restrict the
 operating systems that can be booted or the hardware peripherals that
