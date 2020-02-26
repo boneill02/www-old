@@ -11,7 +11,8 @@ copyright = "Copyright (C) Ben O'Neill."
 	mastodon = "https://mastodon.technology/@swegbun"
 
 [author]
-    name = "Ben O'Neill"
+	name = "Ben O'Neill"
+	email = "ben@benoneill.xyz"
 
 [menu]
 
