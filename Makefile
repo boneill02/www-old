@@ -1,5 +1,5 @@
 all:
-	hugo
+	HUGO_ENV=production hugo --gc --minify
 
 clean:
 	rm -rf public/
