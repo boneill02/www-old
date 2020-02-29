@@ -16,7 +16,7 @@ operating system level. Sadly, my Samsung Galaxy Note 2 still has a
 proprietary bootloader. In terms of programming, I enjoy writing
 software that makes my life easier, whether it be in shell, C, Python,
 or Guile. Those are my preferred programming languages. I use
-[Neovim](https://neovim.io) as my text editor and
+[Vim](https://vim.org) as my text editor and
 [st](https://st.suckless.org) as my terminal emulator.
 [bspwm](https://github.com/baskerville/bspwm) is my window manager.
 All have slight modifications. The shell I use is typically
