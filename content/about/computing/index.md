@@ -1,13 +1,7 @@
 +++
-title = "About Me"
+title = "How I Do My Computing"
 date = "2020-02-18"
 +++
-
-I am interested in computers, history, and music. Computers are my
-main interest these days though, and so this site is mostly based
-around that interest.
-
-## How I Do My Computing
 
 I run [Parabola GNU/Linux-Libre](https://parabola.nu) with exclusively
 free software on my Lenovo Thinkpad X200. On my phone, I run
@@ -25,9 +19,3 @@ All have slight modifications. The shell I use is typically
 POSIX compliant, so all my scripts do hopefully run in any
 POSIX-compliant shell.
 
-## Contact
-
-You can contact me by email at
-[ben@benoneill.xyz](mailto:ben@benoneill.xyz).
-
-My GPG key fingerprint is `B8C860DF6C692125693024B008E519F7ED5D7984`.
