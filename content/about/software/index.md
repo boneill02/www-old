@@ -143,7 +143,7 @@ it).
 
 A wrapper for [aspell](http://aspell.net/) that works like the
 [original spell for Version 7
-Unix](https://en.wikipedia.org/wiki/Spell_(Unix).
+Unix](https://en.wikipedia.org/wiki/Spell_(Unix)).
 
 ## [cronie](https://github.com/cronie-crond/cronie)
 
