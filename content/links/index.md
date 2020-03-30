@@ -3,7 +3,7 @@ title = "Links"
 date = "2020-02-18"
 +++
 
-## OS Distributions I Like
+## Distributions I Like
 
 * [Hyperbola GNU/Linux-Libre](https://www.hyperbola.info/)
 * [Parabola GNU/Linux-Libre](https://parabola.nu/)
@@ -17,5 +17,6 @@ date = "2020-02-18"
 
 ## Philosophy
 
-* [Free Software Foundation](https://www.fsf.org/)
-* [GNU Project](https://www.gnu.org/)
+* [Free Software Foundation](https://www.fsf.org/about/)
+* [GNU Project](https://www.gnu.org/philosophy/free-sw.html)
+* [Suckless Project](https://suckless.org/philosophy/)
