@@ -12,3 +12,9 @@ These are some bands/artists I like:
 * The Jesus and Mary Chain
 * The Fall
 * Fontaines DC
+* The Velvet Underground
+* The Only Ones
+* Slowdive
+* Red House Painters
+* The Stone Roses
+* The Smashing Pumpkins

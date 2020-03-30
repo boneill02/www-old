@@ -14,14 +14,12 @@ from the ground up.
 ## [dwm](https://dwm.suckless.org/)
 
 This is the window manager I use. I use a custom build of it, which is
-available
-on [my GitLab](https://gitlab.com/swegbun/).
+available on [my GitLab](https://gitlab.com/swegbun/).
 
 ## [st](https://st.suckless.org/)
 
 This is the terminal emulator. I use a custom build of it, available
-on
-[my GitLab](https://gitlab.com/swegbun/).
+on [my GitLab](https://gitlab.com/swegbun/).
 
 ## [Bash](https://gnu.org/software/bash/)
 
