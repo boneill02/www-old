@@ -1,26 +1,11 @@
----
-title: "How To Filter Emails Into Mailboxes Using Neomutt and Notmuch"
-date: 2020-03-17T00:46:53-04:00
-lastmod: 2020-03-17T00:46:53-04:00
-draft: false
-author: "Ben O'Neill"
-authorLink: ""
-description: ""
-license: ""
++++
+title = "How To Filter Emails Into Mailboxes Using Neomutt and Notmuch"
+date = 2020-03-05T16:45:00-05:00
+tags = []
+featured_image = ""
+description = ""
++++
 
-tags: []
-categories: []
-hiddenFromHomePage: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc: false
-autoCollapseToc: true
-lightgallery: true
-math: false
-comment: true
----
 
 Notmuch is a very powerful tool for managing email, and I had an issue
 I have been dealing with for a little while now that I realized I
@@ -38,6 +23,7 @@ if it matches given queries, like in my case the words "college" and
 minutes in a cronjob, so I added this:
 
 	# ~/.local/bin/mailsync
+	...
 	notmuch new # update notmuch db
 	notmuch tag +college "university" and in folder:xyz/INBOX
 	notmuch tag +college "college" and in folder:xyz/INBOX
@@ -52,6 +38,7 @@ This query can also be used in Neomutt by using virtual mailboxes like
 so:
 
 	# ~/.config/mutt/muttrc
+	...
 	set nm_default_uri="notmuch:///home/ben/.local/share/mail" # replace with your mail dir
 	set virtual_spoolfile=yes
 	virtual-mailboxes \
