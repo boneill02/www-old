@@ -62,7 +62,7 @@ enableEmoji = true
         identifier = "repo"
         name = "Repository"
         url = "https://git.benoneill.xyz"
-        weight = 1
+        weight = 5
       [languages.en.params]
         # site description
         description = "Ben O'Neill's personal website."
