@@ -58,6 +58,11 @@ enableEmoji = true
         name = "About"
         url = "/about/"
         weight = 4
+      [[languages.en.menu.main]]
+        identifier = "repo"
+        name = "Repository"
+        url = "https://git.benoneill.xyz"
+        weight = 1
       [languages.en.params]
         # site description
         description = "Ben O'Neill's personal website."
@@ -91,7 +96,7 @@ enableEmoji = true
             defaultHiddenFromHomePage = false
         # Social Info in home page
         [languages.en.params.social]
-          # GitHub = "xxxx"
+          GitHub = "swegbun"
           # Linkedin = "xxxx"
           # Twitter = "xxxx"
           # Instagram = "xxxx"
@@ -152,7 +157,7 @@ enableEmoji = true
           # Thingiverse = "xxxx"
           # Devto = "xxxx"
           # Gitea = "xxxx"
-          XMPP = "bmo@member.fsf.org"
+          XMPP = "ben@benoneill.xyz"
           Matrix = "@swegbun:librem.one"
           # Bilibili = "xxxx"
         # Social Share Links in post page
