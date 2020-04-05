@@ -1,6 +1,6 @@
 +++
 title = "Now Self Hosting Git Repositories"
-date = 2020-03-05T16:45:00-05:00
+date = 2020-04-04T16:45:00-05:00
 tags = []
 featured_image = ""
 description = ""
