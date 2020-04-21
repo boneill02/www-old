@@ -1,6 +1,5 @@
 ---
 title: "9front First Impressions"
-author: "Ben O'Neill"
 date: 2020-04-21T13:34:49-04:00
 ---
 

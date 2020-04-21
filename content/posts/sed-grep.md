@@ -1,10 +1,7 @@
-+++
-title =  "The Unbeatable Effectiveness of Sed and Grep"
-date = 2020-02-18T15:27:16-05:00
-tags = []
-featured_image = ""
-description = ""
-+++
+---
+title: "The Unbeatable Effectiveness of Sed and Grep"
+date: 2020-02-18T15:27:16-05:00
+---
 
 Using the shell effectively in a Unix-like environment must show a
 certain flow, which is comparable to poetry. According to former AT&T

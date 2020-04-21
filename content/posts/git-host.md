@@ -1,10 +1,7 @@
-+++
-title = "Now Self Hosting Git Repositories"
-date = 2020-04-04T16:45:00-05:00
-tags = []
-featured_image = ""
-description = ""
-+++
+---
+title: "Now Self Hosting Git Repositories"
+date: 2020-04-04T16:45:00-05:00
+---
 
 I am now self-hosting my git repositories
 [here](https://git.benoneill.xyz). I will still push commits to my

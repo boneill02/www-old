@@ -1,11 +1,7 @@
-+++
-title =  "Why RSS Is So Important Today"
-date = 2020-02-18T18:37:33-05:00
-tags = []
-featured_image = ""
-description = ""
-author = "Ben O'Neill"
-+++
+---
+title: "Why RSS Is So Important Today"
+date: 2020-02-18T18:37:33-05:00
+---
 
 RSS is an amazing format for listing news articles, blog posts,
 podcasts, and pretty much anything else. But with Google News,

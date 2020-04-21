@@ -1,11 +1,7 @@
-+++
-title =  "Review of a Lenovo Thinkpad X200 with Libreboot"
-author = "Ben O'Neill"
-date = 2020-02-26T18:00:49-05:00
-tags = []
-featured_image = ""
-description = ""
-+++
+---
+title: "Review of a Lenovo Thinkpad X200 with Libreboot"
+date: 2020-02-26T18:00:49-05:00
+---
 
 [Libreboot](https://libreboot.org) allows one to free his/her computer
 from the shackles of proprietary boot firmware, which can restrict the

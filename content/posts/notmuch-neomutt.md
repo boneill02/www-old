@@ -1,10 +1,7 @@
-+++
-title = "How To Filter Emails Into Mailboxes Using Neomutt and Notmuch"
-date = 2020-03-05T16:45:00-05:00
-tags = []
-featured_image = ""
-description = ""
-+++
+---
+title: "How To Filter Emails Into Mailboxes Using Neomutt and Notmuch"
+date: 2020-03-05T16:45:00-05:00
+---
 
 
 Notmuch is a very powerful tool for managing email, and I had an issue
