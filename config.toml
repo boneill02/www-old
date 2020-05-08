@@ -33,7 +33,7 @@ enableEmoji = true
     # [UA-XXXXXXXX-X] google analytics code
     googleAnalytics = ""
     # copyright description used only for seo schema
-    copyright = "This work is licensed under the Creative Commons Attribution-NoDerivatives 3.0 license or later ."
+    copyright = "All rights reserved."
     # date format
     dateFormatToUse = "2006-01-02"
     # Menu Info
@@ -107,7 +107,7 @@ enableEmoji = true
           Gitlab = "swegbun"
           # Youtubelegacy = "xxxx"
           # Youtubecustom = "xxxx"
-          Youtubechannel = "https://www.youtube.com/channel/UC--YQl1PSkZNDvC1KNJ2B3w"
+          Youtubechannel = "UC--YQl1PSkZNDvC1KNJ2B3w"
           # Tumblr ="xxxx"
           # Quora = "xxxx"
           # Keybase = "xxxx"
@@ -248,7 +248,7 @@ enableEmoji = true
     icp = ""
     # license info (HTML format is allowed)
     # 许可协议信息 (允许使用 HTML 格式)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nd/3.0/" target="_blank">CC BY-ND 3.0 or later.</a>'
+    license= ''
   # Page config
   [params.page]
     # whether to use lightgallery in the page
